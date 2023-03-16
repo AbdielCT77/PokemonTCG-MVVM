@@ -1,0 +1,6 @@
+framework module Pods_PokemonTCGProject {
+  umbrella header "Pods-PokemonTCGProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

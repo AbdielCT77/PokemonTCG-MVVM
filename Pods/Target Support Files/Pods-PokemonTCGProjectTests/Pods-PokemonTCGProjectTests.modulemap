@@ -1,0 +1,6 @@
+framework module Pods_PokemonTCGProjectTests {
+  umbrella header "Pods-PokemonTCGProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
